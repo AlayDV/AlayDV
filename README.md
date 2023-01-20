@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif)
+![MasterHead](https://user-images.githubusercontent.com/2865960/193469747-e60f7a96-4dcf-4cc5-91f5-80374dca4fcc.png)
 <h1 align="center">Hi there 😄, I'm Erick Alay</h1>
 <h3 align="center">A passionate backend developer from Ecuador</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif">
